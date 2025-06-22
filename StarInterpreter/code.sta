@@ -1,0 +1,15 @@
+int i is 0.
+int j.
+loop 3 times {
+    write "Outer loop iteration: ", i, newLine.
+    j is 0.
+    loop 2 times {
+        write "  Inner loop iteration: ", j, newLine.
+        j is j + 1.
+    }
+    i is i + 1.
+}
+
+
+
+
