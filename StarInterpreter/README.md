@@ -1,6 +1,6 @@
 # Interpreter
 
-A console-based interpreter written in C for the custom scripting language **STAR**. This component parses and executes STAR programs line by line, obeying the language’s syntax and semantics.
+A console-based interpreter written in C for the custom scripting language STAR. This component parses and executes STAR programs line by line, obeying the language’s syntax and semantics, enabling dynamic script execution and testing.
 
 ---
 
